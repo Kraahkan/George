@@ -9499,7 +9499,7 @@ ol.vc_carousel-indicators > li{
 
 /* Nivo SLider */
 .theme-default div.nivoSlider {
-    background: #fff url("http://george.test/wp-content/themes/booker/loading.gif") no-repeat scroll 50% 50%;
+    background: #fff url("http://george.local/wp-content/themes/booker/loading.gif") no-repeat scroll 50% 50%;
     box-shadow: none;
     margin-bottom: 10px;
     position: relative;

@@ -411,10 +411,10 @@ rs-alyer *:not(.rs-wtbindex),
 	
 /* CAROUSEL FUNCTIONS */
 rs-carousel-wrap {
-	cursor:url(openhand.cur.html), move;
+	cursor:url(openhand.cur), move;
 }
 rs-carousel-wrap.dragged {
-	cursor:url(closedhand.cur.html), move;
+	cursor:url(closedhand.cur), move;
 }
 
 rs-carousel-wrap { position: absolute; overflow: hidden;  width:100%;height:100%;top:0px;left:0px;}
