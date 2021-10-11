@@ -8323,11 +8323,11 @@
 	@font-face {
 	    font-family: 'pt_serifbold';
 	    src: url('fonts/pt-serif/pt_serif-web-bold-webfont.eot');
-	    src: url('fonts/pt-serif/pt_serif-web-bold-webfont.eot@') format('embedded-opentype'),
+	    src: url('fonts/pt-serif/pt_serif-web-bold-webfont.eot?#iefix') format('embedded-opentype'),
 	         url('fonts/pt-serif/pt_serif-web-bold-webfont.woff2') format('woff2'),
 	         url('fonts/pt-serif/pt_serif-web-bold-webfont.woff') format('woff'),
 	         url('fonts/pt-serif/pt_serif-web-bold-webfont.ttf') format('truetype'),
-	         url('fonts/pt-serif/pt_serif-web-bold-webfont.svg') format('svg');
+	         url('fonts/pt-serif/pt_serif-web-bold-webfont.svg#pt_serifbold') format('svg');
 	    font-weight: normal;
 	    font-style: normal;
 	
@@ -8337,11 +8337,11 @@
 	@font-face {
 	    font-family: 'pt_serifbold_italic';
 	    src: url('fonts/pt-serif/pt_serif-web-bolditalic-webfont.eot');
-	    src: url('fonts/pt-serif/pt_serif-web-bolditalic-webfont.eot@') format('embedded-opentype'),
+	    src: url('fonts/pt-serif/pt_serif-web-bolditalic-webfont.eot?#iefix') format('embedded-opentype'),
 	         url('fonts/pt-serif/pt_serif-web-bolditalic-webfont.woff2') format('woff2'),
 	         url('fonts/pt-serif/pt_serif-web-bolditalic-webfont.woff') format('woff'),
 	         url('fonts/pt-serif/pt_serif-web-bolditalic-webfont.ttf') format('truetype'),
-	         url('fonts/pt-serif/pt_serif-web-bolditalic-webfont.svg') format('svg');
+	         url('fonts/pt-serif/pt_serif-web-bolditalic-webfont.svg#pt_serifbold_italic') format('svg');
 	    font-weight: normal;
 	    font-style: normal;
 	
@@ -8351,11 +8351,11 @@
 	@font-face {
 	    font-family: 'pt_serifitalic';
 	    src: url('fonts/pt-serif/pt_serif-web-italic-webfont.eot');
-	    src: url('fonts/pt-serif/pt_serif-web-italic-webfont.eot@') format('embedded-opentype'),
+	    src: url('fonts/pt-serif/pt_serif-web-italic-webfont.eot?#iefix') format('embedded-opentype'),
 	         url('fonts/pt-serif/pt_serif-web-italic-webfont.woff2') format('woff2'),
 	         url('fonts/pt-serif/pt_serif-web-italic-webfont.woff') format('woff'),
 	         url('fonts/pt-serif/pt_serif-web-italic-webfont.ttf') format('truetype'),
-	         url('fonts/pt-serif/pt_serif-web-italic-webfont.svg') format('svg');
+	         url('fonts/pt-serif/pt_serif-web-italic-webfont.svg#pt_serifitalic') format('svg');
 	    font-weight: normal;
 	    font-style: normal;
 	
@@ -8365,11 +8365,11 @@
 	@font-face {
 	    font-family: 'pt_serifregular';
 	    src: url('fonts/pt-serif/pt_serif-web-regular-webfont.eot');
-	    src: url('fonts/pt-serif/pt_serif-web-regular-webfont.eot@') format('embedded-opentype'),
+	    src: url('fonts/pt-serif/pt_serif-web-regular-webfont.eot?#iefix') format('embedded-opentype'),
 	         url('fonts/pt-serif/pt_serif-web-regular-webfont.woff2') format('woff2'),
 	         url('fonts/pt-serif/pt_serif-web-regular-webfont.woff') format('woff'),
 	         url('fonts/pt-serif/pt_serif-web-regular-webfont.ttf') format('truetype'),
-	         url('fonts/pt-serif/pt_serif-web-regular-webfont.svg') format('svg');
+	         url('fonts/pt-serif/pt_serif-web-regular-webfont.svg#pt_serifregular') format('svg');
 	    font-weight: normal;
 	    font-style: normal;
 	
@@ -8380,11 +8380,11 @@
 	@font-face {
 	    font-family: 'playfair_displayblack';
 	    src: url('fonts/playfair/playfairdisplay-black-webfont.eot');
-	    src: url('fonts/playfair/playfairdisplay-black-webfont.eot@') format('embedded-opentype'),
+	    src: url('fonts/playfair/playfairdisplay-black-webfont.eot?#iefix') format('embedded-opentype'),
 	         url('fonts/playfair/playfairdisplay-black-webfont.woff2') format('woff2'),
 	         url('fonts/playfair/playfairdisplay-black-webfont.woff') format('woff'),
 	         url('fonts/playfair/playfairdisplay-black-webfont.ttf') format('truetype'),
-	         url('fonts/playfair/playfairdisplay-black-webfont.svg') format('svg');
+	         url('fonts/playfair/playfairdisplay-black-webfont.svg#playfair_displayblack') format('svg');
 	    font-weight: normal;
 	    font-style: normal;
 	
@@ -8396,11 +8396,11 @@
 	@font-face {
 	    font-family: 'playfair_displayblack_italic';
 	    src: url('fonts/playfair/playfairdisplay-blackitalic-webfont.eot');
-	    src: url('fonts/playfair/playfairdisplay-blackitalic-webfont.eot@') format('embedded-opentype'),
+	    src: url('fonts/playfair/playfairdisplay-blackitalic-webfont.eot?#iefix') format('embedded-opentype'),
 	         url('fonts/playfair/playfairdisplay-blackitalic-webfont.woff2') format('woff2'),
 	         url('fonts/playfair/playfairdisplay-blackitalic-webfont.woff') format('woff'),
 	         url('fonts/playfair/playfairdisplay-blackitalic-webfont.ttf') format('truetype'),
-	         url('fonts/playfair/playfairdisplay-blackitalic-webfont.svg') format('svg');
+	         url('fonts/playfair/playfairdisplay-blackitalic-webfont.svg#playfair_displayblack_italic') format('svg');
 	    font-weight: normal;
 	    font-style: normal;
 	
@@ -8412,11 +8412,11 @@
 	@font-face {
 	    font-family: 'playfair_displaybold';
 	    src: url('fonts/playfair/playfairdisplay-bold-webfont.eot');
-	    src: url('fonts/playfair/playfairdisplay-bold-webfont.eot@') format('embedded-opentype'),
+	    src: url('fonts/playfair/playfairdisplay-bold-webfont.eot?#iefix') format('embedded-opentype'),
 	         url('fonts/playfair/playfairdisplay-bold-webfont.woff2') format('woff2'),
 	         url('fonts/playfair/playfairdisplay-bold-webfont.woff') format('woff'),
 	         url('fonts/playfair/playfairdisplay-bold-webfont.ttf') format('truetype'),
-	         url('fonts/playfair/playfairdisplay-bold-webfont.svg') format('svg');
+	         url('fonts/playfair/playfairdisplay-bold-webfont.svg#playfair_displaybold') format('svg');
 	    font-weight: normal;
 	    font-style: normal;
 	
@@ -8428,11 +8428,11 @@
 	@font-face {
 	    font-family: 'playfair_displaybold_italic';
 	    src: url('fonts/playfair/playfairdisplay-bolditalic-webfont.eot');
-	    src: url('fonts/playfair/playfairdisplay-bolditalic-webfont.eot@') format('embedded-opentype'),
+	    src: url('fonts/playfair/playfairdisplay-bolditalic-webfont.eot?#iefix') format('embedded-opentype'),
 	         url('fonts/playfair/playfairdisplay-bolditalic-webfont.woff2') format('woff2'),
 	         url('fonts/playfair/playfairdisplay-bolditalic-webfont.woff') format('woff'),
 	         url('fonts/playfair/playfairdisplay-bolditalic-webfont.ttf') format('truetype'),
-	         url('fonts/playfair/playfairdisplay-bolditalic-webfont.svg') format('svg');
+	         url('fonts/playfair/playfairdisplay-bolditalic-webfont.svg#playfair_displaybold_italic') format('svg');
 	    font-weight: normal;
 	    font-style: normal;
 	
@@ -8444,11 +8444,11 @@
 	@font-face {
 	    font-family: 'playfair_displayitalic';
 	    src: url('fonts/playfair/playfairdisplay-italic-webfont.eot');
-	    src: url('fonts/playfair/playfairdisplay-italic-webfont.eot@') format('embedded-opentype'),
+	    src: url('fonts/playfair/playfairdisplay-italic-webfont.eot?#iefix') format('embedded-opentype'),
 	         url('fonts/playfair/playfairdisplay-italic-webfont.woff2') format('woff2'),
 	         url('fonts/playfair/playfairdisplay-italic-webfont.woff') format('woff'),
 	         url('fonts/playfair/playfairdisplay-italic-webfont.ttf') format('truetype'),
-	         url('fonts/playfair/playfairdisplay-italic-webfont.svg') format('svg');
+	         url('fonts/playfair/playfairdisplay-italic-webfont.svg#playfair_displayitalic') format('svg');
 	    font-weight: normal;
 	    font-style: normal;
 	
@@ -8460,11 +8460,11 @@
 	@font-face {
 	    font-family: 'playfair_displayregular';
 	    src: url('fonts/playfair/playfairdisplay-regular-webfont.eot');
-	    src: url('fonts/playfair/playfairdisplay-regular-webfont.eot@') format('embedded-opentype'),
+	    src: url('fonts/playfair/playfairdisplay-regular-webfont.eot?#iefix') format('embedded-opentype'),
 	         url('fonts/playfair/playfairdisplay-regular-webfont.woff2') format('woff2'),
 	         url('fonts/playfair/playfairdisplay-regular-webfont.woff') format('woff'),
 	         url('fonts/playfair/playfairdisplay-regular-webfont.ttf') format('truetype'),
-	         url('fonts/playfair/playfairdisplay-regular-webfont.svg') format('svg');
+	         url('fonts/playfair/playfairdisplay-regular-webfont.svg#playfair_displayregular') format('svg');
 	    font-weight: normal;
 	    font-style: normal;
 	
@@ -8500,255 +8500,255 @@ ul.sitemap li.flag{
 	background-image: none!important;
 }
 
-li.flag.af{ background-image: url(img/flags/AF.png); }
-li.flag.ax{ background-image: url(img/flags/AX.png); }
-li.flag.al{ background-image: url(img/flags/AL.png); }
-li.flag.dz{ background-image: url(img/flags/DZ.png); } 
-li.flag.as{ background-image: url(img/flags/AS.png); } 
-li.flag.ad{ background-image: url(img/flags/AD.png); }
-li.flag.ao{ background-image: url(img/flags/AO.png); }
-li.flag.ai{ background-image: url(img/flags/AI.png); }
-li.flag.aq{ background-image: url(img/flags/AQ.png); }
-li.flag.ag{ background-image: url(img/flags/AG.png); }
-li.flag.ar{ background-image: url(img/flags/AR.png); }
-li.flag.am{ background-image: url(img/flags/AM.png); }
-li.flag.aw{ background-image: url(img/flags/AW.png); }
-li.flag.au{ background-image: url(img/flags/AU.png); }
-li.flag.at{ background-image: url(img/flags/AT.png); }
-li.flag.az{ background-image: url(img/flags/AZ.png); }
-li.flag.bs{ background-image: url(img/flags/BS.png); }
-li.flag.bh{ background-image: url(img/flags/BH.png); } 
-li.flag.bd{ background-image: url(img/flags/BD.png); }
-li.flag.bb{ background-image: url(img/flags/BB.png); }
-li.flag.by{ background-image: url(img/flags/BY.png); }
-li.flag.be{ background-image: url(img/flags/BE.png); }
-li.flag.bz{ background-image: url(img/flags/BZ.png); }           
-li.flag.bj{ background-image: url(img/flags/BJ.png); }  
-li.flag.bm{ background-image: url(img/flags/BM.png); }
-li.flag.bt{ background-image: url(img/flags/BT.png); }     
-li.flag.bo{ background-image: url(img/flags/BO.png); }
-li.flag.bq{ background-image: url(img/flags/BQ.png); }
-li.flag.ba{ background-image: url(img/flags/BA.png); }
-li.flag.bw{ background-image: url(img/flags/BW.png); }       
-li.flag.bv{ background-image: url(img/flags/BV.png); }
-li.flag.br{ background-image: url(img/flags/BR.png); }
-li.flag.io{ background-image: url(img/flags/IO.png); }
-li.flag.bn{ background-image: url(img/flags/BN.png); }
-li.flag.bg{ background-image: url(img/flags/BG.png); }
-li.flag.bf{ background-image: url(img/flags/BF.png); }
-li.flag.bi{ background-image: url(img/flags/BI.png); }
-li.flag.kh{ background-image: url(img/flags/KH.png); }
-li.flag.cm{ background-image: url(img/flags/CM.png); }
-li.flag.ca{ background-image: url(img/flags/CA.png); }
-li.flag.cv{ background-image: url(img/flags/CV.png); }             
-li.flag.ky{ background-image: url(img/flags/KY.png); }
-li.flag.cf{ background-image: url(img/flags/CF.png); }
-li.flag.td{ background-image: url(img/flags/TD.png); }
-li.flag.cl{ background-image: url(img/flags/CL.png); }
-li.flag.cn{ background-image: url(img/flags/CN.png); }        
-li.flag.cx{ background-image: url(img/flags/CX.png); }
-li.flag.cc{ background-image: url(img/flags/CC.png); }
-li.flag.co{ background-image: url(img/flags/CO.png); }
-li.flag.km{ background-image: url(img/flags/KM.png); }
-li.flag.cg{ background-image: url(img/flags/CG.png); }
-li.flag.cd{ background-image: url(img/flags/CD.png); }
-li.flag.ck{ background-image: url(img/flags/CK.png); }
-li.flag.cr{ background-image: url(img/flags/CR.png); }
-li.flag.ci{ background-image: url(img/flags/CI.png); }
-li.flag.hr{ background-image: url(img/flags/HR.png); }
-li.flag.cu{ background-image: url(img/flags/CU.png); }
-li.flag.cw{ background-image: url(img/flags/CW.png); }
-li.flag.cy{ background-image: url(img/flags/CY.png); }
-li.flag.cz{ background-image: url(img/flags/CZ.png); }
-li.flag.dk{ background-image: url(img/flags/DK.png); } 
-li.flag.dj{ background-image: url(img/flags/DJ.png); }
-li.flag.dm{ background-image: url(img/flags/DM.png); }
-li.flag.do{ background-image: url(img/flags/DO.png); }
-li.flag.ec{ background-image: url(img/flags/EC.png); }
-li.flag.eg{ background-image: url(img/flags/EG.png); }
-li.flag.sv{ background-image: url(img/flags/SV.png); }
-li.flag.gq{ background-image: url(img/flags/GQ.png); }
-li.flag.er{ background-image: url(img/flags/ER.png); }
-li.flag.ee{ background-image: url(img/flags/EE.png); }
-li.flag.et{ background-image: url(img/flags/ET.png); }
-li.flag.fk{ background-image: url(img/flags/FK.png); }
-li.flag.fo{ background-image: url(img/flags/FO.png); }
-li.flag.fj{ background-image: url(img/flags/FJ.png); }
-li.flag.fi{ background-image: url(img/flags/FI.png); }
-li.flag.fr{ background-image: url(img/flags/FR.png); }
-li.flag.gf{ background-image: url(img/flags/GF.png); }
-li.flag.pf{ background-image: url(img/flags/PF.png); }
-li.flag.tf{ background-image: url(img/flags/TF.png); } 
-li.flag.ga{ background-image: url(img/flags/GA.png); }
-li.flag.gm{ background-image: url(img/flags/GM.png); }
-li.flag.ge{ background-image: url(img/flags/GE.png); }
-li.flag.de{ background-image: url(img/flags/DE.png); }
-li.flag.gh{ background-image: url(img/flags/GH.png); }
-li.flag.gi{ background-image: url(img/flags/GI.png); }
-li.flag.gr{ background-image: url(img/flags/GR.png); }
-li.flag.gl{ background-image: url(img/flags/GL.png); }
-li.flag.gd{ background-image: url(img/flags/GD.png); }
-li.flag.gp{ background-image: url(img/flags/GP.png); }
-li.flag.gu{ background-image: url(img/flags/GU.png); }                          
-li.flag.gt{ background-image: url(img/flags/GT.png); }
-li.flag.gg{ background-image: url(img/flags/GG.png); }
-li.flag.gn{ background-image: url(img/flags/GN.png); }
-li.flag.gw{ background-image: url(img/flags/GW.png); }
-li.flag.gy{ background-image: url(img/flags/GY.png); }
-li.flag.ht{ background-image: url(img/flags/HT.png); }
-li.flag.hm{ background-image: url(img/flags/HM.png); }
-li.flag.va{ background-image: url(img/flags/VA.png); }
-li.flag.hn{ background-image: url(img/flags/HN.png); }
-li.flag.hk{ background-image: url(img/flags/HK.png); }
-li.flag.hu{ background-image: url(img/flags/HU.png); }
-li.flag.is{ background-image: url(img/flags/IS.png); }
-li.flag.in{ background-image: url(img/flags/IN.png); }
-li.flag.id{ background-image: url(img/flags/ID.png); }
-li.flag.ir{ background-image: url(img/flags/IR.png); }
-li.flag.iq{ background-image: url(img/flags/IQ.png); }
-li.flag.ie{ background-image: url(img/flags/IE.png); }
-li.flag.im{ background-image: url(img/flags/IM.png); }
-li.flag.il{ background-image: url(img/flags/IL.png); }
-li.flag.it{ background-image: url(img/flags/IT.png); }
-li.flag.jm{ background-image: url(img/flags/JM.png); }
-li.flag.jp{ background-image: url(img/flags/JP.png); }
-li.flag.je{ background-image: url(img/flags/JE.png); }
-li.flag.jo{ background-image: url(img/flags/JO.png); }
-li.flag.kz{ background-image: url(img/flags/KZ.png); }
-li.flag.ke{ background-image: url(img/flags/KE.png); }
-li.flag.ki{ background-image: url(img/flags/KI.png); }
-li.flag.kp{ background-image: url(img/flags/KP.png); }
-li.flag.kr{ background-image: url(img/flags/KR.png); }
-li.flag.kw{ background-image: url(img/flags/KW.png); }
-li.flag.kg{ background-image: url(img/flags/KG.png); }
-li.flag.la{ background-image: url(img/flags/LA.png); }
-li.flag.lv{ background-image: url(img/flags/LV.png); }
-li.flag.lb{ background-image: url(img/flags/LB.png); }
-li.flag.ls{ background-image: url(img/flags/LS.png); }
-li.flag.lr{ background-image: url(img/flags/LR.png); }
-li.flag.ly{ background-image: url(img/flags/LY.png); }
-li.flag.li{ background-image: url(img/flags/LI.png); }
-li.flag.lt{ background-image: url(img/flags/LT.png); }
-li.flag.lu{ background-image: url(img/flags/LU.png); }
-li.flag.mo{ background-image: url(img/flags/MO.png); }
-li.flag.mk{ background-image: url(img/flags/MK.png); }
-li.flag.mg{ background-image: url(img/flags/MG.png); }
-li.flag.mw{ background-image: url(img/flags/MW.png); }
-li.flag.my{ background-image: url(img/flags/MY.png); }
-li.flag.mv{ background-image: url(img/flags/MV.png); }
-li.flag.ml{ background-image: url(img/flags/ML.png); }
-li.flag.mt{ background-image: url(img/flags/MT.png); }
-li.flag.mh{ background-image: url(img/flags/MH.png); }
-li.flag.mq{ background-image: url(img/flags/MQ.png); }
-li.flag.mr{ background-image: url(img/flags/MR.png); }
-li.flag.mu{ background-image: url(img/flags/MU.png); }
-li.flag.yt{ background-image: url(img/flags/YT.png); }
-li.flag.mx{ background-image: url(img/flags/MX.png); }
-li.flag.fm{ background-image: url(img/flags/FM.png); }
-li.flag.md{ background-image: url(img/flags/MD.png); }
-li.flag.mc{ background-image: url(img/flags/MC.png); }
-li.flag.mn{ background-image: url(img/flags/MN.png); }
-li.flag.me{ background-image: url(img/flags/ME.png); }
-li.flag.ms{ background-image: url(img/flags/MS.png); }
-li.flag.ma{ background-image: url(img/flags/MA.png); }
-li.flag.mz{ background-image: url(img/flags/MZ.png); }
-li.flag.mm{ background-image: url(img/flags/MM.png); }
-li.flag.na{ background-image: url(img/flags/NA.png); }
-li.flag.nr{ background-image: url(img/flags/NR.png); }
-li.flag.np{ background-image: url(img/flags/NP.png); }
-li.flag.nl{ background-image: url(img/flags/NL.png); }
-li.flag.nc{ background-image: url(img/flags/NC.png); }
-li.flag.nz{ background-image: url(img/flags/NZ.png); }
-li.flag.ni{ background-image: url(img/flags/NI.png); }
-li.flag.ne{ background-image: url(img/flags/NE.png); }
-li.flag.ng{ background-image: url(img/flags/NG.png); }
-li.flag.nu{ background-image: url(img/flags/NU.png); }
-li.flag.nf{ background-image: url(img/flags/NF.png); }
-li.flag.mp{ background-image: url(img/flags/MP.png); }
-li.flag.no{ background-image: url(img/flags/NO.png); }
-li.flag.om{ background-image: url(img/flags/OM.png); }
-li.flag.pk{ background-image: url(img/flags/PK.png); }
-li.flag.pw{ background-image: url(img/flags/PW.png); } 
-li.flag.ps{ background-image: url(img/flags/PS.png); } 
-li.flag.pa{ background-image: url(img/flags/PA.png); }
-li.flag.pg{ background-image: url(img/flags/PG.png); } 
-li.flag.py{ background-image: url(img/flags/PY.png); } 
-li.flag.pe{ background-image: url(img/flags/PE.png); }
-li.flag.ph{ background-image: url(img/flags/PH.png); } 
-li.flag.pn{ background-image: url(img/flags/PN.png); } 
-li.flag.pl{ background-image: url(img/flags/PL.png); }
-li.flag.pt{ background-image: url(img/flags/PT.png); } 
-li.flag.pr{ background-image: url(img/flags/PR.png); } 
-li.flag.qa{ background-image: url(img/flags/QA.png); }
-li.flag.re{ background-image: url(img/flags/RE.png); }
-li.flag.ro{ background-image: url(img/flags/RO.png); }
-li.flag.ru{ background-image: url(img/flags/RU.png); }
-li.flag.rw{ background-image: url(img/flags/RW.png); }       
-li.flag.bl{ background-image: url(img/flags/BL.png); }   
-li.flag.sh{ background-image: url(img/flags/SH.png); }
-li.flag.kn{ background-image: url(img/flags/KN.png); }   
-li.flag.lc{ background-image: url(img/flags/LC.png); }
-li.flag.mf{ background-image: url(img/flags/MF.png); }
-li.flag.pm{ background-image: url(img/flags/PM.png); }
-li.flag.vc{ background-image: url(img/flags/VC.png); }
-li.flag.ws{ background-image: url(img/flags/WS.png); }
-li.flag.sm{ background-image: url(img/flags/SM.png); }
-li.flag.st{ background-image: url(img/flags/ST.png); }
-li.flag.sa{ background-image: url(img/flags/SA.png); }
-li.flag.sn{ background-image: url(img/flags/SN.png); }
-li.flag.rs{ background-image: url(img/flags/RS.png); }
-li.flag.sc{ background-image: url(img/flags/SC.png); }
-li.flag.sl{ background-image: url(img/flags/SL.png); }
-li.flag.sg{ background-image: url(img/flags/SG.png); }
-li.flag.sx{ background-image: url(img/flags/SX.png); }
-li.flag.sk{ background-image: url(img/flags/SK.png); }   
-li.flag.si{ background-image: url(img/flags/SI.png); }
-li.flag.sb{ background-image: url(img/flags/SB.png); }
-li.flag.so{ background-image: url(img/flags/SO.png); }
-li.flag.za{ background-image: url(img/flags/ZA.png); }   
-li.flag.gs{ background-image: url(img/flags/GS.png); }
-li.flag.ss{ background-image: url(img/flags/SS.png); }
-li.flag.es{ background-image: url(img/flags/ES.png); }
-li.flag.lk{ background-image: url(img/flags/LK.png); }
-li.flag.sd{ background-image: url(img/flags/SD.png); } 
-li.flag.sr{ background-image: url(img/flags/SR.png); }
-li.flag.sj{ background-image: url(img/flags/SJ.png); }
-li.flag.sz{ background-image: url(img/flags/SZ.png); }
-li.flag.se{ background-image: url(img/flags/SE.png); }
-li.flag.ch{ background-image: url(img/flags/CH.png); }
-li.flag.sy{ background-image: url(img/flags/SY.png); }
-li.flag.tw{ background-image: url(img/flags/TW.png); }
-li.flag.tj{ background-image: url(img/flags/TJ.png); }
-li.flag.tz{ background-image: url(img/flags/TZ.png); }
-li.flag.th{ background-image: url(img/flags/TH.png); }
-li.flag.tl{ background-image: url(img/flags/TL.png); }
-li.flag.tg{ background-image: url(img/flags/TG.png); }
-li.flag.tk{ background-image: url(img/flags/TK.png); }
-li.flag.to{ background-image: url(img/flags/TO.png); }
-li.flag.tt{ background-image: url(img/flags/TT.png); }
-li.flag.tn{ background-image: url(img/flags/TN.png); }
-li.flag.tr{ background-image: url(img/flags/TR.png); }
-li.flag.tm{ background-image: url(img/flags/TM.png); }
-li.flag.tc{ background-image: url(img/flags/TC.png); }
-li.flag.tv{ background-image: url(img/flags/TV.png); }
-li.flag.ug{ background-image: url(img/flags/UG.png); }
-li.flag.ua{ background-image: url(img/flags/UA.png); }
-li.flag.ae{ background-image: url(img/flags/AE.png); }
-li.flag.gb{ background-image: url(img/flags/GB.png); }
-li.flag.us{ background-image: url(img/flags/US.png); }
-li.flag.um{ background-image: url(img/flags/UM.png); }  
-li.flag.uy{ background-image: url(img/flags/UY.png); } 
-li.flag.uz{ background-image: url(img/flags/UZ.png); }
-li.flag.vu{ background-image: url(img/flags/VU.png); }
-li.flag.ve{ background-image: url(img/flags/VE.png); }
-li.flag.vn{ background-image: url(img/flags/VN.png); }
-li.flag.vg{ background-image: url(img/flags/VG.png); }
-li.flag.vi{ background-image: url(img/flags/VI.png); }
-li.flag.wf{ background-image: url(img/flags/WF.png); }
-li.flag.eh{ background-image: url(img/flags/EH.png); }  
-li.flag.ye{ background-image: url(img/flags/YE.png); }
-li.flag.zm{ background-image: url(img/flags/ZM.png); }
-li.flag.zw{ background-image: url(img/flags/ZW.png); }
+li.flag.af{ background-image: url(./img/flags/AF.png); }
+li.flag.ax{ background-image: url(./img/flags/AX.png); }
+li.flag.al{ background-image: url(./img/flags/AL.png); }
+li.flag.dz{ background-image: url(./img/flags/DZ.png); } 
+li.flag.as{ background-image: url(./img/flags/AS.png); } 
+li.flag.ad{ background-image: url(./img/flags/AD.png); }
+li.flag.ao{ background-image: url(./img/flags/AO.png); }
+li.flag.ai{ background-image: url(./img/flags/AI.png); }
+li.flag.aq{ background-image: url(./img/flags/AQ.png); }
+li.flag.ag{ background-image: url(./img/flags/AG.png); }
+li.flag.ar{ background-image: url(./img/flags/AR.png); }
+li.flag.am{ background-image: url(./img/flags/AM.png); }
+li.flag.aw{ background-image: url(./img/flags/AW.png); }
+li.flag.au{ background-image: url(./img/flags/AU.png); }
+li.flag.at{ background-image: url(./img/flags/AT.png); }
+li.flag.az{ background-image: url(./img/flags/AZ.png); }
+li.flag.bs{ background-image: url(./img/flags/BS.png); }
+li.flag.bh{ background-image: url(./img/flags/BH.png); } 
+li.flag.bd{ background-image: url(./img/flags/BD.png); }
+li.flag.bb{ background-image: url(./img/flags/BB.png); }
+li.flag.by{ background-image: url(./img/flags/BY.png); }
+li.flag.be{ background-image: url(./img/flags/BE.png); }
+li.flag.bz{ background-image: url(./img/flags/BZ.png); }           
+li.flag.bj{ background-image: url(./img/flags/BJ.png); }  
+li.flag.bm{ background-image: url(./img/flags/BM.png); }
+li.flag.bt{ background-image: url(./img/flags/BT.png); }     
+li.flag.bo{ background-image: url(./img/flags/BO.png); }
+li.flag.bq{ background-image: url(./img/flags/BQ.png); }
+li.flag.ba{ background-image: url(./img/flags/BA.png); }
+li.flag.bw{ background-image: url(./img/flags/BW.png); }       
+li.flag.bv{ background-image: url(./img/flags/BV.png); }
+li.flag.br{ background-image: url(./img/flags/BR.png); }
+li.flag.io{ background-image: url(./img/flags/IO.png); }
+li.flag.bn{ background-image: url(./img/flags/BN.png); }
+li.flag.bg{ background-image: url(./img/flags/BG.png); }
+li.flag.bf{ background-image: url(./img/flags/BF.png); }
+li.flag.bi{ background-image: url(./img/flags/BI.png); }
+li.flag.kh{ background-image: url(./img/flags/KH.png); }
+li.flag.cm{ background-image: url(./img/flags/CM.png); }
+li.flag.ca{ background-image: url(./img/flags/CA.png); }
+li.flag.cv{ background-image: url(./img/flags/CV.png); }             
+li.flag.ky{ background-image: url(./img/flags/KY.png); }
+li.flag.cf{ background-image: url(./img/flags/CF.png); }
+li.flag.td{ background-image: url(./img/flags/TD.png); }
+li.flag.cl{ background-image: url(./img/flags/CL.png); }
+li.flag.cn{ background-image: url(./img/flags/CN.png); }        
+li.flag.cx{ background-image: url(./img/flags/CX.png); }
+li.flag.cc{ background-image: url(./img/flags/CC.png); }
+li.flag.co{ background-image: url(./img/flags/CO.png); }
+li.flag.km{ background-image: url(./img/flags/KM.png); }
+li.flag.cg{ background-image: url(./img/flags/CG.png); }
+li.flag.cd{ background-image: url(./img/flags/CD.png); }
+li.flag.ck{ background-image: url(./img/flags/CK.png); }
+li.flag.cr{ background-image: url(./img/flags/CR.png); }
+li.flag.ci{ background-image: url(./img/flags/CI.png); }
+li.flag.hr{ background-image: url(./img/flags/HR.png); }
+li.flag.cu{ background-image: url(./img/flags/CU.png); }
+li.flag.cw{ background-image: url(./img/flags/CW.png); }
+li.flag.cy{ background-image: url(./img/flags/CY.png); }
+li.flag.cz{ background-image: url(./img/flags/CZ.png); }
+li.flag.dk{ background-image: url(./img/flags/DK.png); } 
+li.flag.dj{ background-image: url(./img/flags/DJ.png); }
+li.flag.dm{ background-image: url(./img/flags/DM.png); }
+li.flag.do{ background-image: url(./img/flags/DO.png); }
+li.flag.ec{ background-image: url(./img/flags/EC.png); }
+li.flag.eg{ background-image: url(./img/flags/EG.png); }
+li.flag.sv{ background-image: url(./img/flags/SV.png); }
+li.flag.gq{ background-image: url(./img/flags/GQ.png); }
+li.flag.er{ background-image: url(./img/flags/ER.png); }
+li.flag.ee{ background-image: url(./img/flags/EE.png); }
+li.flag.et{ background-image: url(./img/flags/ET.png); }
+li.flag.fk{ background-image: url(./img/flags/FK.png); }
+li.flag.fo{ background-image: url(./img/flags/FO.png); }
+li.flag.fj{ background-image: url(./img/flags/FJ.png); }
+li.flag.fi{ background-image: url(./img/flags/FI.png); }
+li.flag.fr{ background-image: url(./img/flags/FR.png); }
+li.flag.gf{ background-image: url(./img/flags/GF.png); }
+li.flag.pf{ background-image: url(./img/flags/PF.png); }
+li.flag.tf{ background-image: url(./img/flags/TF.png); } 
+li.flag.ga{ background-image: url(./img/flags/GA.png); }
+li.flag.gm{ background-image: url(./img/flags/GM.png); }
+li.flag.ge{ background-image: url(./img/flags/GE.png); }
+li.flag.de{ background-image: url(./img/flags/DE.png); }
+li.flag.gh{ background-image: url(./img/flags/GH.png); }
+li.flag.gi{ background-image: url(./img/flags/GI.png); }
+li.flag.gr{ background-image: url(./img/flags/GR.png); }
+li.flag.gl{ background-image: url(./img/flags/GL.png); }
+li.flag.gd{ background-image: url(./img/flags/GD.png); }
+li.flag.gp{ background-image: url(./img/flags/GP.png); }
+li.flag.gu{ background-image: url(./img/flags/GU.png); }                          
+li.flag.gt{ background-image: url(./img/flags/GT.png); }
+li.flag.gg{ background-image: url(./img/flags/GG.png); }
+li.flag.gn{ background-image: url(./img/flags/GN.png); }
+li.flag.gw{ background-image: url(./img/flags/GW.png); }
+li.flag.gy{ background-image: url(./img/flags/GY.png); }
+li.flag.ht{ background-image: url(./img/flags/HT.png); }
+li.flag.hm{ background-image: url(./img/flags/HM.png); }
+li.flag.va{ background-image: url(./img/flags/VA.png); }
+li.flag.hn{ background-image: url(./img/flags/HN.png); }
+li.flag.hk{ background-image: url(./img/flags/HK.png); }
+li.flag.hu{ background-image: url(./img/flags/HU.png); }
+li.flag.is{ background-image: url(./img/flags/IS.png); }
+li.flag.in{ background-image: url(./img/flags/IN.png); }
+li.flag.id{ background-image: url(./img/flags/ID.png); }
+li.flag.ir{ background-image: url(./img/flags/IR.png); }
+li.flag.iq{ background-image: url(./img/flags/IQ.png); }
+li.flag.ie{ background-image: url(./img/flags/IE.png); }
+li.flag.im{ background-image: url(./img/flags/IM.png); }
+li.flag.il{ background-image: url(./img/flags/IL.png); }
+li.flag.it{ background-image: url(./img/flags/IT.png); }
+li.flag.jm{ background-image: url(./img/flags/JM.png); }
+li.flag.jp{ background-image: url(./img/flags/JP.png); }
+li.flag.je{ background-image: url(./img/flags/JE.png); }
+li.flag.jo{ background-image: url(./img/flags/JO.png); }
+li.flag.kz{ background-image: url(./img/flags/KZ.png); }
+li.flag.ke{ background-image: url(./img/flags/KE.png); }
+li.flag.ki{ background-image: url(./img/flags/KI.png); }
+li.flag.kp{ background-image: url(./img/flags/KP.png); }
+li.flag.kr{ background-image: url(./img/flags/KR.png); }
+li.flag.kw{ background-image: url(./img/flags/KW.png); }
+li.flag.kg{ background-image: url(./img/flags/KG.png); }
+li.flag.la{ background-image: url(./img/flags/LA.png); }
+li.flag.lv{ background-image: url(./img/flags/LV.png); }
+li.flag.lb{ background-image: url(./img/flags/LB.png); }
+li.flag.ls{ background-image: url(./img/flags/LS.png); }
+li.flag.lr{ background-image: url(./img/flags/LR.png); }
+li.flag.ly{ background-image: url(./img/flags/LY.png); }
+li.flag.li{ background-image: url(./img/flags/LI.png); }
+li.flag.lt{ background-image: url(./img/flags/LT.png); }
+li.flag.lu{ background-image: url(./img/flags/LU.png); }
+li.flag.mo{ background-image: url(./img/flags/MO.png); }
+li.flag.mk{ background-image: url(./img/flags/MK.png); }
+li.flag.mg{ background-image: url(./img/flags/MG.png); }
+li.flag.mw{ background-image: url(./img/flags/MW.png); }
+li.flag.my{ background-image: url(./img/flags/MY.png); }
+li.flag.mv{ background-image: url(./img/flags/MV.png); }
+li.flag.ml{ background-image: url(./img/flags/ML.png); }
+li.flag.mt{ background-image: url(./img/flags/MT.png); }
+li.flag.mh{ background-image: url(./img/flags/MH.png); }
+li.flag.mq{ background-image: url(./img/flags/MQ.png); }
+li.flag.mr{ background-image: url(./img/flags/MR.png); }
+li.flag.mu{ background-image: url(./img/flags/MU.png); }
+li.flag.yt{ background-image: url(./img/flags/YT.png); }
+li.flag.mx{ background-image: url(./img/flags/MX.png); }
+li.flag.fm{ background-image: url(./img/flags/FM.png); }
+li.flag.md{ background-image: url(./img/flags/MD.png); }
+li.flag.mc{ background-image: url(./img/flags/MC.png); }
+li.flag.mn{ background-image: url(./img/flags/MN.png); }
+li.flag.me{ background-image: url(./img/flags/ME.png); }
+li.flag.ms{ background-image: url(./img/flags/MS.png); }
+li.flag.ma{ background-image: url(./img/flags/MA.png); }
+li.flag.mz{ background-image: url(./img/flags/MZ.png); }
+li.flag.mm{ background-image: url(./img/flags/MM.png); }
+li.flag.na{ background-image: url(./img/flags/NA.png); }
+li.flag.nr{ background-image: url(./img/flags/NR.png); }
+li.flag.np{ background-image: url(./img/flags/NP.png); }
+li.flag.nl{ background-image: url(./img/flags/NL.png); }
+li.flag.nc{ background-image: url(./img/flags/NC.png); }
+li.flag.nz{ background-image: url(./img/flags/NZ.png); }
+li.flag.ni{ background-image: url(./img/flags/NI.png); }
+li.flag.ne{ background-image: url(./img/flags/NE.png); }
+li.flag.ng{ background-image: url(./img/flags/NG.png); }
+li.flag.nu{ background-image: url(./img/flags/NU.png); }
+li.flag.nf{ background-image: url(./img/flags/NF.png); }
+li.flag.mp{ background-image: url(./img/flags/MP.png); }
+li.flag.no{ background-image: url(./img/flags/NO.png); }
+li.flag.om{ background-image: url(./img/flags/OM.png); }
+li.flag.pk{ background-image: url(./img/flags/PK.png); }
+li.flag.pw{ background-image: url(./img/flags/PW.png); } 
+li.flag.ps{ background-image: url(./img/flags/PS.png); } 
+li.flag.pa{ background-image: url(./img/flags/PA.png); }
+li.flag.pg{ background-image: url(./img/flags/PG.png); } 
+li.flag.py{ background-image: url(./img/flags/PY.png); } 
+li.flag.pe{ background-image: url(./img/flags/PE.png); }
+li.flag.ph{ background-image: url(./img/flags/PH.png); } 
+li.flag.pn{ background-image: url(./img/flags/PN.png); } 
+li.flag.pl{ background-image: url(./img/flags/PL.png); }
+li.flag.pt{ background-image: url(./img/flags/PT.png); } 
+li.flag.pr{ background-image: url(./img/flags/PR.png); } 
+li.flag.qa{ background-image: url(./img/flags/QA.png); }
+li.flag.re{ background-image: url(./img/flags/RE.png); }
+li.flag.ro{ background-image: url(./img/flags/RO.png); }
+li.flag.ru{ background-image: url(./img/flags/RU.png); }
+li.flag.rw{ background-image: url(./img/flags/RW.png); }       
+li.flag.bl{ background-image: url(./img/flags/BL.png); }   
+li.flag.sh{ background-image: url(./img/flags/SH.png); }
+li.flag.kn{ background-image: url(./img/flags/KN.png); }   
+li.flag.lc{ background-image: url(./img/flags/LC.png); }
+li.flag.mf{ background-image: url(./img/flags/MF.png); }
+li.flag.pm{ background-image: url(./img/flags/PM.png); }
+li.flag.vc{ background-image: url(./img/flags/VC.png); }
+li.flag.ws{ background-image: url(./img/flags/WS.png); }
+li.flag.sm{ background-image: url(./img/flags/SM.png); }
+li.flag.st{ background-image: url(./img/flags/ST.png); }
+li.flag.sa{ background-image: url(./img/flags/SA.png); }
+li.flag.sn{ background-image: url(./img/flags/SN.png); }
+li.flag.rs{ background-image: url(./img/flags/RS.png); }
+li.flag.sc{ background-image: url(./img/flags/SC.png); }
+li.flag.sl{ background-image: url(./img/flags/SL.png); }
+li.flag.sg{ background-image: url(./img/flags/SG.png); }
+li.flag.sx{ background-image: url(./img/flags/SX.png); }
+li.flag.sk{ background-image: url(./img/flags/SK.png); }   
+li.flag.si{ background-image: url(./img/flags/SI.png); }
+li.flag.sb{ background-image: url(./img/flags/SB.png); }
+li.flag.so{ background-image: url(./img/flags/SO.png); }
+li.flag.za{ background-image: url(./img/flags/ZA.png); }   
+li.flag.gs{ background-image: url(./img/flags/GS.png); }
+li.flag.ss{ background-image: url(./img/flags/SS.png); }
+li.flag.es{ background-image: url(./img/flags/ES.png); }
+li.flag.lk{ background-image: url(./img/flags/LK.png); }
+li.flag.sd{ background-image: url(./img/flags/SD.png); } 
+li.flag.sr{ background-image: url(./img/flags/SR.png); }
+li.flag.sj{ background-image: url(./img/flags/SJ.png); }
+li.flag.sz{ background-image: url(./img/flags/SZ.png); }
+li.flag.se{ background-image: url(./img/flags/SE.png); }
+li.flag.ch{ background-image: url(./img/flags/CH.png); }
+li.flag.sy{ background-image: url(./img/flags/SY.png); }
+li.flag.tw{ background-image: url(./img/flags/TW.png); }
+li.flag.tj{ background-image: url(./img/flags/TJ.png); }
+li.flag.tz{ background-image: url(./img/flags/TZ.png); }
+li.flag.th{ background-image: url(./img/flags/TH.png); }
+li.flag.tl{ background-image: url(./img/flags/TL.png); }
+li.flag.tg{ background-image: url(./img/flags/TG.png); }
+li.flag.tk{ background-image: url(./img/flags/TK.png); }
+li.flag.to{ background-image: url(./img/flags/TO.png); }
+li.flag.tt{ background-image: url(./img/flags/TT.png); }
+li.flag.tn{ background-image: url(./img/flags/TN.png); }
+li.flag.tr{ background-image: url(./img/flags/TR.png); }
+li.flag.tm{ background-image: url(./img/flags/TM.png); }
+li.flag.tc{ background-image: url(./img/flags/TC.png); }
+li.flag.tv{ background-image: url(./img/flags/TV.png); }
+li.flag.ug{ background-image: url(./img/flags/UG.png); }
+li.flag.ua{ background-image: url(./img/flags/UA.png); }
+li.flag.ae{ background-image: url(./img/flags/AE.png); }
+li.flag.gb{ background-image: url(./img/flags/GB.png); }
+li.flag.us{ background-image: url(./img/flags/US.png); }
+li.flag.um{ background-image: url(./img/flags/UM.png); }  
+li.flag.uy{ background-image: url(./img/flags/UY.png); } 
+li.flag.uz{ background-image: url(./img/flags/UZ.png); }
+li.flag.vu{ background-image: url(./img/flags/VU.png); }
+li.flag.ve{ background-image: url(./img/flags/VE.png); }
+li.flag.vn{ background-image: url(./img/flags/VN.png); }
+li.flag.vg{ background-image: url(./img/flags/VG.png); }
+li.flag.vi{ background-image: url(./img/flags/VI.png); }
+li.flag.wf{ background-image: url(./img/flags/WF.png); }
+li.flag.eh{ background-image: url(./img/flags/EH.png); }  
+li.flag.ye{ background-image: url(./img/flags/YE.png); }
+li.flag.zm{ background-image: url(./img/flags/ZM.png); }
+li.flag.zw{ background-image: url(./img/flags/ZW.png); }
 
 
 
@@ -9016,7 +9016,7 @@ li.flag.zw{ background-image: url(img/flags/ZW.png); }
 	position: absolute;
 	left: -4px;
 	bottom: -10px;
-	background: url(img/pad-shadow.png) center bottom no-repeat;
+	background: url(./img/pad-shadow.png) center bottom no-repeat;
 	background-size: cover;
 	opacity: .8;
 	z-index: -2;
@@ -9034,7 +9034,7 @@ li.flag.zw{ background-image: url(img/flags/ZW.png); }
 	height: 33px;
 	display: block;
 	position: absolute;
-	background-image: url(img/ipad-btn-black.png); /* ipad-btn-black.png for White iPad */
+	background-image: url(./img/ipad-btn-black.png); /* ipad-btn-black.png for White iPad */
 	background-size: 33px 33px;
 	left: calc(50% - 16.5px);
 	bottom: calc(0px - 40px);
@@ -9499,7 +9499,7 @@ ol.vc_carousel-indicators > li{
 
 /* Nivo SLider */
 .theme-default div.nivoSlider {
-    background: #fff url("http://george.local/wp-content/themes/booker/loading.gif") no-repeat scroll 50% 50%;
+    background: #fff url("loading.gif") no-repeat scroll 50% 50%;
     box-shadow: none;
     margin-bottom: 10px;
     position: relative;
